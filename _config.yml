@@ -1,0 +1,28 @@
+name: ku-ti
+favicon: null
+layout_spectrum: 0.060646915808320045
+typography_spectrum: 0.3575331764295697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2589028945658356
+  lightness: 0.9909750183578581
+  saturation: 0.20256456546485424
+  rhythmicContrast: 0.43709254427812994
+purpose: []
